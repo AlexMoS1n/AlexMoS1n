@@ -46,6 +46,10 @@ I love learning new technologies and am always happy to collaborate!
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
+### Education:
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+
 ### Other:
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white)
 ![JSON API](https://img.shields.io/badge/JSON_API-000000?style=for-the-badge&logo=json&logoColor=white)
