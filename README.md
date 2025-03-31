@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/alex-banner.jpg)](https://github.com/AlexMoS1n)
 ## About me
-![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/face.jpg)
+![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait.jpg)  
 Hello 👋  
 My name is Alexander Mosin and I am a full-stack developer from Moscow. My goal is to become part of an IT team and develop in the field of web development.    
 I have been programming since childhood. I studied Basic, Delphi, Php, JavaScript on my own. But I was always drawn to web development. That is why I started making websites first on CMS such as Joomla and WordPress.  
