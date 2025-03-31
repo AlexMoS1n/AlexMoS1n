@@ -8,6 +8,7 @@ I also studied the backend component of web site development (Node.js, Express, 
 I have experience in building application architecture, including the MVP approach, as well as experience working with relational (PostgreSQL) and non-relational (MongoDB) databases, CI/CD (GitHub Actions) and deploying projects via Docker and Nginx.
 The full stack of my knowledge can be viewed in the corresponding section.  
 I completed Yandex Practicum Courses in the specialty of full-stack developer and have a corresponding diploma.  
+I participated in the development of the ProCharity platform from Yandex, where I gained valuable experience working in a professional team.  
 
 P.S.  
 I love learning new technologies and am always happy to collaborate!
