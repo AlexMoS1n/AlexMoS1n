@@ -52,3 +52,6 @@ I love learning new technologies and am always happy to collaborate!
 ![SaaS](https://img.shields.io/badge/SaaS-FF4088?style=for-the-badge&logo=sass&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMoS1n)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoS1n&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
