@@ -63,5 +63,6 @@ I love learning new technologies and am always happy to collaborate!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoS1n&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=%2Fhttps%3A%2F%2Ft.me%2Fden7466)](https://t.me/AlexOneM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&style=flat&logoColor=white)](mailto:alexonem777@gmail.com)
 
 [![Footer](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/footer-banner.jpg)](https://github.com/AlexMoS1n)
