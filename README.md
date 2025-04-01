@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/alex-banner.jpg)](https://github.com/AlexMoS1n)
+[![Header](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/header-banner.jpg)](https://github.com/AlexMoS1n)
 ## About me
 ![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait-me.jpg)  
 Hello 👋  
