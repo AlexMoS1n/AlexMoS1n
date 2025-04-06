@@ -61,9 +61,9 @@ I love learning new technologies and am always happy to collaborate!
 ## Achievements
 [![codewars](https://www.codewars.com/users/AlexMos1nOne/badges/large)](https://www.codewars.com/users/AlexMos1nOne) 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoS1n&layout=pie)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMoS1n)
-![trophy](https://github-profile-trophy.vercel.app/?username=AlexMoS1n)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoS1n&layout=pie&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMoS1n&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=AlexMoS1n&theme=dracula)
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=%2Fhttps%3A%2F%2Ft.me%2Fden7466)](https://t.me/AlexOneM)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&style=for-the-badge&logoColor=white)](mailto:alexonem777@gmail.com)
