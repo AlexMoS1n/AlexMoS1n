@@ -61,9 +61,9 @@ I love learning new technologies and am always happy to collaborate!
 ## Achievements
 [![codewars](https://www.codewars.com/users/AlexMos1nOne/badges/large)](https://www.codewars.com/users/AlexMos1nOne) 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoS1n&layout=pie&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMoS1n&theme=dracula)
-![trophy](https://github-profile-trophy.vercel.app/?username=AlexMoS1n&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMoS1n&theme=dracula)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexMoS1n&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://komarev.com/ghpvc/?username=AlexMoS1n&color=red)
 ![snake gif](https://github.com/AlexMoS1n/AlexMoS1n/blob/output/github-snake-dark.svg)
 ## Contacts:
