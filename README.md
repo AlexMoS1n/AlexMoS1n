@@ -69,3 +69,5 @@ I love learning new technologies and am always happy to collaborate!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&style=for-the-badge&logoColor=white)](mailto:alexonem777@gmail.com)
 
 [![Footer](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/footer-banner.jpg)](https://github.com/AlexMoS1n)
+
+![snake gif](https://github.com/AlexMoS1n/AlexMoS1n/blob/output/github-contribution-grid-snake.gif)
