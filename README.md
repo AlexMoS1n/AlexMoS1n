@@ -1,4 +1,5 @@
 [![Header](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/header-banner.jpg)](https://github.com/AlexMoS1n)
+
 ## About me
 ![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait-me.jpg)  
 Hello 👋  
@@ -36,7 +37,6 @@ I love learning new technologies and am always happy to collaborate!
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![CRUD API](https://img.shields.io/badge/CRUD%20API-4CAF50?style=for-the-badge)
-
 
 ### DevOps:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
