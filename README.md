@@ -1,5 +1,7 @@
 [![Header](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/header-banner.jpg)](https://github.com/AlexMoS1n)
 
+![](https://komarev.com/ghpvc/?username=AlexMoS1n&color=red)
+
 ## About me
 ![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait-me.jpg)  
 Hello 👋  
@@ -68,6 +70,6 @@ I love learning new technologies and am always happy to collaborate!
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=%2Fhttps%3A%2F%2Ft.me%2Fden7466)](https://t.me/AlexOneM)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&style=for-the-badge&logoColor=white)](mailto:alexonem777@gmail.com)
 
-[![Footer](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/footer-banner.jpg)](https://github.com/AlexMoS1n)
 
-![snake gif](https://github.com/AlexMoS1n/AlexMoS1n/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AlexMoS1n/AlexMoS1n/blob/output/github-snake-dark.svg)
+[![Footer](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/footer-banner.jpg)](https://github.com/AlexMoS1n)
