@@ -1,7 +1,7 @@
 [![Header](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/header-banner.jpg)](https://github.com/AlexMoS1n)
 
 ## About me
-![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait-me.jpg)  
+![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait-me.jpg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=AlexMos1n+%E2%80%94+fullstack+developer+%3D))](https://git.io/typing-svg) 
 Hello 👋  
 My name is Alexander Mosin and I am a full-stack developer from Moscow. My goal is to become part of an IT team and develop in the field of web development.    
 I have been programming since childhood. I studied Basic, Delphi, Php, JavaScript on my own. But I was always drawn to web development. That is why I started making websites first on CMS such as Joomla and WordPress.  
