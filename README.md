@@ -1,10 +1,8 @@
 [![Header](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/header-banner.jpg)](https://github.com/AlexMoS1n)
 
-## About me 
-<div style="display: flex; align-items: center; flex-wrap:wrap; gap: 30px;">
-    <img src="https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait-me.jpg">
-    <a href="https://git.io/typing-svg" style="align-self:center;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+" alt="Typing SVG" /></a>
-</div>  
+## About me
+![Portrait](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/assets/portrait-me.jpg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+)](https://git.io/typing-svg)     
 My name is Alexander Mosin and I am a fullstack developer from Moscow. My goal is to become part of an IT team and develop in the field of web development.    
 I have been programming since childhood. I studied Basic, Delphi, Php, JavaScript on my own. But I was always drawn to web development. That is why I started making websites first on CMS such as Joomla and WordPress.  
 Then I decided to do web development professionally, so I studied the stack of technologies for layout (HTML, CSS, SCSS, Pug) and, accordingly, for giving sites interactivity and dynamism (TypeScript, React, Vue).
