@@ -64,8 +64,8 @@ I love learning new technologies and am always happy to collaborate!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoS1n&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMoS1n&theme=dracula)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexMoS1n&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=AlexMoS1n&color=red)
 ![](https://github.com/AlexMoS1n/AlexMoS1n/blob/main/profile-3d-contrib/profile-night-green.svg)
+![](https://komarev.com/ghpvc/?username=AlexMoS1n&color=red)
 ![snake gif](https://github.com/AlexMoS1n/AlexMoS1n/blob/output/github-snake-dark.svg)
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=%2Fhttps%3A%2F%2Ft.me%2Fden7466)](https://t.me/AlexOneM)
